@@ -1,4 +1,4 @@
-# Android device tree for qcom msm8916_32 (msm8916_32)
+# Recovery/twrp device tree for qcom msm8916_32 (msm8916_32)
 
 ```
 #
